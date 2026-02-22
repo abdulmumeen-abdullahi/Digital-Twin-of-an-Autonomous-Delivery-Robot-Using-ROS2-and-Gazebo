@@ -1,1 +1,1 @@
-# Digital-Twin-of-an-Autonomous-Delivery-Robot-Using-ROS2-and-Gazebo
+# Digital Twin of an Autonomous Delivery Robot Using ROS2 and Gazebo
